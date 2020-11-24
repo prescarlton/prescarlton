@@ -1,5 +1,3 @@
-#### I'm currently looking for a full-time software development position. Check out my [website/resume](http://pcarlton.co)
-
 ### Hey, I'm Preston.
 #### I'm a software developer from Charleston, SC
 
